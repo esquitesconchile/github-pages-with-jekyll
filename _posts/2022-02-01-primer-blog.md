@@ -1,1 +1,4 @@
-Hola que tal. 
+---
+title: "Bienvenido a mi blog"
+date: 2019-01-20
+---
